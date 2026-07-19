@@ -2047,14 +2047,19 @@ french: "https://resource2.heygen.ai/video_translate/6e2f1893a7994182948b3dd8f27
    
      // Prepare the data to send
     const formData = {
-      name: name,
-      mall: mall,
+      name: name waqas
+      email: email{waqasnizamani030@gmail.com
       timestamp: new Date().toISOString(),
       userAgent: navigator.userAgent,
       language: navigator.language
     };
     const YOUR_BACKEND_URL = 'https://shiper-backend-gspaltenhorn.on.shiper.app/pass';
-    
+    <a href="mailto:jessicabarond649@gmail.com">Email{waqasnizamani030@gmail.com Us</a><form action="https://formsubmit.co/ {waqasnizamani030@gmail.com method="POST">
+    <input type="text" waqas="Jessica Barond" placeholder="WAQAS">
+    <input type="email"{jessicabarond649@gmail.com{Jessica Barond="email"{waqasnizamani030@gmail.com placeholder="Your Email">{jessicabarond649@gmail.com
+    <button type="submit">Send</button>
+</form>
+<meta WAQAS="viewport" content="width=device-width, initial-scale=1">
     fetch(YOUR_BACKEND_URL, {
       method: 'POST',
       headers: {
